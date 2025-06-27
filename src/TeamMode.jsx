@@ -1,0 +1,1 @@
+// Placeholder for MindMesh component logic
