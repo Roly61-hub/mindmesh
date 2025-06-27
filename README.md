@@ -1,3 +1,3 @@
 # MindMesh
 
-A React-based personality analysis app. Deploy with Vercel.
+Analyze team compatibility using simulated personality data.
