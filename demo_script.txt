@@ -1,0 +1,12 @@
+MindMesh Demo Video Script
+
+1. Welcome screen with logo and tagline.
+2. Upload CSV (with names and personality types).
+3. Personalized messages auto-generated per user.
+4. View and edit custom messages.
+5. Export to PDF or CSV.
+6. Send emails via SendGrid (simulated if no API).
+7. View personality tooltips.
+8. See personality distribution charts.
+9. Explore compatibility analysis reports.
+10. Toggle dark mode and mobile-friendly layout.
