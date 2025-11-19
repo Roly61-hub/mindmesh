@@ -33,4 +33,4 @@ const TeamMode = () => {
   );
 };
 
-export default TeamMode;
+export { TeamMode };
