@@ -1,0 +1,1 @@
+export default function PasswordGate() { return <div>Enter Password to Access</div>; }
