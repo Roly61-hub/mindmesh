@@ -1,1 +1,0 @@
-export default function Team() { return <div>Team Compatibility Tool Coming Soon</div>; }
